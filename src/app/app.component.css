@@ -1,0 +1,17 @@
+.personaje {
+    border: 3px solid;
+    margin: 5px;
+    padding: 5px;
+}
+
+.personaje img {
+    width: 100%;
+}
+
+.vivo {
+    border-color: green;
+}
+
+.muerto {
+    border-color: red;
+}
